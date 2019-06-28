@@ -1,0 +1,10 @@
+.pause {
+    height: 15vh;
+    width: 15vw;
+    fill: #f76363;
+}
+
+.btn-container {
+    font-size: 0;
+    background-color: transparent;
+}

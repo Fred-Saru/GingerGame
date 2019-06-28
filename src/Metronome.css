@@ -1,0 +1,25 @@
+.metronome {
+    text-align: center;
+    max-width: 365px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.freq-slider {
+    width: 100%;
+    margin: 10px;
+}
+
+.freq-slider input {
+    width: 100%;
+}
+
+.metronome button {
+    background: #c94d46;
+    padding: 10px;
+    border: 1px solid #832420;
+    border-radius: 2px;
+    width: 100px;
+    color: white;
+    font-size: 18px;
+}
